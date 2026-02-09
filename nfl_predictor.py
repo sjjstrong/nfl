@@ -8,7 +8,7 @@ from datetime import datetime
 # CONFIG
 # ===============================
 
-API_KEY = "cfab50385a861a5ffb83c9b7d48e937b"
+API_KEY = "API KEY HERE"
 SPORT = "americanfootball_nfl"
 REGIONS = "us"
 ODDS_FORMAT = "american"
@@ -321,3 +321,4 @@ if __name__ == "__main__":
 
     print("\nSportsbook Moneyline:")
     compare_moneyline("Seattle Seahawks", "New England Patriots")
+
